@@ -226,13 +226,14 @@ input:focus-visible {
   font-size: clamp(1.85rem, 3.6vw, 2.85rem);
   line-height: 1.22;
   margin: 0 0 1rem;
-  max-width: min(100%, 48rem);
+  max-width: 100%;
+  width: 100%;
   color: var(--ink);
 }
 
 .identity-block {
   margin: 0 0 1.25rem;
-  max-width: 52rem;
+  max-width: 100%;
 }
 
 .identity-block .name {
@@ -248,7 +249,7 @@ input:focus-visible {
 }
 
 .hero-copy {
-  max-width: 46rem;
+  max-width: min(100%, 52rem);
   color: var(--ink-soft);
 }
 
