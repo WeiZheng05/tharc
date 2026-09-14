@@ -223,10 +223,10 @@ input:focus-visible {
 .hero h1 {
   font-family: var(--serif);
   font-weight: 650;
-  font-size: clamp(1.85rem, 4.2vw, 2.75rem);
+  font-size: clamp(1.85rem, 3.6vw, 2.85rem);
   line-height: 1.22;
   margin: 0 0 1rem;
-  max-width: 18ch;
+  max-width: min(100%, 48rem);
   color: var(--ink);
 }
 

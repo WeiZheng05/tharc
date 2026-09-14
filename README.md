@@ -72,7 +72,7 @@ Optional: set a custom domain later; keep relative paths.
 
 ## Disclaimer
 
-THARC is an independent academic collaboration hosted by faculty. It is **not** endorsed by, affiliated with, or speaking for the Fulbright Program, AUKUS governments, or any defense agency. Content on this site is for scholarly community-building and education.
+THARC is an independent scholarly community and academic collaboration hosted by faculty. It does **not** represent, speak for, or claim endorsement by any government or any agency. Content on this site is for scholarly community-building and education.
 
 ## License / reuse
 
