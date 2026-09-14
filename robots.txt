@@ -1,0 +1,9 @@
+# THARC website — discourage indexing during early community formation
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
